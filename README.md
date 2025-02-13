@@ -9,6 +9,6 @@
 
 Demo scene I made. 🌲👇
 
-![Northward Battle Demo](https://github.com/user-attachments/assets/cf74cf6c-83f9-4437-918f-a2caf86f4406)
+https://github.com/user-attachments/assets/744ad847-dfba-46cc-8191-1e2148047d9a
 
 Other things I've worked on outside of games. 👇
