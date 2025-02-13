@@ -9,6 +9,6 @@
 
 Demo scene I made. 🌲👇
 
-![](https://github.com/user-attachments/assets/744ad847-dfba-46cc-8191-1e2148047d9a)
+https://github.com/user-attachments/assets/b1817fe6-9bed-4c2a-96e0-755b023f44ac
 
 Other things I've worked on outside of games. 👇
