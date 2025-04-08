@@ -8,10 +8,12 @@
 ![Pluey Stamp](https://github.com/user-attachments/assets/cfc607f2-d10e-4161-b764-6644133bd70c)
 
 
-# 👋 Hi, I'm Zach. I like programming games and also other stuff.
+# 👋 Hi, I'm Zach. 
 
-Demo scene I made. 🌲👇
+I like making protypes, contributing to open source (especially for iOS/Mac) and also other stuff.
 
-https://github.com/user-attachments/assets/cf2e7928-6d1c-4af3-bfc2-4d4a8fb89b4f
+Demo scene I made in Godot. 🌲👇
+
+https://github.com/user-attachments/assets/6a7e55e5-c842-435a-96ec-0b3b78ff38c1
 
 Other things I've worked on outside of games. 👇
