@@ -12,6 +12,6 @@
 
 Demo scene I made. 🌲👇
 
-https://github.com/user-attachments/assets/b1817fe6-9bed-4c2a-96e0-755b023f44ac
+https://github.com/user-attachments/assets/cf2e7928-6d1c-4af3-bfc2-4d4a8fb89b4f
 
 Other things I've worked on outside of games. 👇
