@@ -12,7 +12,7 @@
 
 I like making protypes, contributing to open source (especially for iOS/Mac) and also other stuff.
 
-Demo scene I made in Godot for a game project I've been working on. 🌲👇
+Demo scene I made in Godot for a game project I've been working on.
 
 
 https://github.com/user-attachments/assets/427d22b7-abbd-465a-b972-8a2b5676fee7
